@@ -59,3 +59,4 @@ Tested on mobile, desktop and web.
 This free template is part of a pack of responsive email templates for developers and startups available on [HTML Email](https://htmlemail.io).
 [![image](https://github.com/leemunroe/responsive-html-email-template/assets/15963/61d4a6d7-bd0e-4241-b4e5-d766162df192)](https://htmlemail.io)
 
+day 2 learning github
